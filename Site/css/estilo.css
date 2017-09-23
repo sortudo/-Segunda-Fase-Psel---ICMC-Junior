@@ -1,0 +1,81 @@
+*{margin:0px;
+padding:0px;
+}
+
+body {
+	font-family: 'Droid Sans', sans-serif;
+	color:#FFF;
+	font-size:12px;
+	background-color:#6697cc;
+}
+
+.cabecalho{
+	width:980px;
+	height:262px;
+	margin:auto;
+}
+
+.logo{
+	width:410px;
+	height:220px;
+	float:left; 
+}
+
+.banner { 
+    width:570px;
+	height:220px;
+	float:left;
+}
+
+.menu {
+	width:980px;
+	height:32px;
+	padding-top:10px;
+
+	background-image:url(../img/bg-menu.jpg);
+	background-repeat:no-repeat;
+	float:left;
+}
+
+.menu a{
+	text-decoration:none;
+	font-size:16px;
+	padding-left:15px;
+	color:#000000;
+}
+
+.conteudo { 
+	width:980px;
+	height:408px;
+	background-color:#CCC;
+	color:#000;
+	margin:auto;
+}
+
+.conteudo h1{
+	color:#000000;
+	padding-left:15px;
+	padding-top:10px;
+}
+
+.conteudo p{
+	padding-left:15px;
+	padding-top:10px;
+	font-size:14px;
+}
+
+.texto{
+	width:650px;
+	height:auto;
+	float:left;
+}
+
+.foto{
+	width:330px;
+	height:auto;
+	float:left;
+}
+
+.foto img{
+	padding:15px;
+}
